@@ -1,0 +1,60 @@
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 1
+Product Name: Laptop
+Price: 80000
+Quantity: 10
+Product added!
+
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 2
+
+ID | Name | Price | Qty
+1 | Laptop | 80000.0 | 10
+
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 3
+Enter Product ID to Update: 1
+New Name: Gaming Laptop
+New Price: 90000
+New Quantity: 5
+Product updated!
+
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 2
+
+ID | Name | Price | Qty
+1 | Gaming Laptop | 90000.0 | 5
+
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 4
+Enter Product ID to Delete: 1
+Product deleted!
+
+1. Add Product
+2. View All
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 2
+
+ID | Name | Price | Qty
